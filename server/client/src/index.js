@@ -9,6 +9,8 @@ import reduxThunk from 'redux-thunk';
 
 import App from "./components/App";
 import authReducer from "./reducers/authReducer";
+import axios from 'axios';
+window.axios = axios
 
 const store = configureStore({ 
   reducer: {
