@@ -2,10 +2,10 @@ MERN Project for fun :)
 
 Stack used:
 
-Node.js
-MongoDB
-Express
-React.js
+1. Node.js
+2. MongoDB
+3. Express
+4. React.js
 
 Additional Tools:
 
